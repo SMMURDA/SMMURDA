@@ -1,5 +1,3 @@
-<p align="center">
-
 ###### Profile
 <p align="center">
   <em> Dev bored building useless codes & APIs.</em>
@@ -10,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,docker" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,docker" alt="My Skills" style="width: 200px;" />
 </p>
 
 ---
