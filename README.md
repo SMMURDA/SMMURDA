@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SMMURDA/api-matic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SMMURDA&repo=api-matic&theme=dark&show_icons=true&hide_border=false" alt="Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SMMURDA&repo=api-matic&theme=white&show_icons=true&hide_border=false" alt="Repo Card" />
   </a>
 </p>
 
