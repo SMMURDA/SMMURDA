@@ -1,10 +1,12 @@
+<p align="center">
+
 ###### Profile
 <p align="center">
   <em> Dev bored building useless codes & APIs.</em>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMMURDA&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMMURDA&layout=compact&theme=tokyonight&langs_count=8" alt="Top " />
 </p>
 
 <p align="center">
