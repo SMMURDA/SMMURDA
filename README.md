@@ -1,10 +1,7 @@
-###### Profile
 <p align="center">
-  <em> Dev bored building useless codes & APIs.</em>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMMURDA&layout=compact&theme=tokyonight&langs_count=8" alt="Top " />
+  <a href="https://github.com/SMMURDA/api-matic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SMMURDA&repo=api-matic&theme=dark&show_icons=true&hide_border=false" alt="Repo Card" />
+  </a>
 </p>
 
 <p align="center">
@@ -13,7 +10,6 @@
 
 ---
 
-###### Connect
 <p align="left">
   <a href="https://matic.eu.org">
     <img src="https://img.shields.io/badge/Website-Matic%20API-orange?style=for-the-badge&logo=wordpress&logoColor=white" alt="Website">
